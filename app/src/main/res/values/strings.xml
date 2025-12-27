@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Конструктор открыток</string>
+
+    <!-- Welcome Screen -->
+    <string name="welcome_title">Конструктор открыток</string>
+    <string name="welcome_subtitle">Создайте уникальную открытку\nвсего за несколько шагов!</string>
+    <string name="welcome_button_start">Начать</string>
+
+    <!-- Text Input Screen -->
+    <string name="text_input_title">Шаг 1: Текст открытки</string>
+    <string name="text_input_header">Введите текст поздравления</string>
+    <string name="text_input_label">Текст открытки</string>
+    <string name="text_input_placeholder">Например: С Днём Рождения!</string>
+    <string name="button_next">Далее</string>
+    <string name="button_back">Назад</string>
+
+    <!-- Color Selection Screen -->
+    <string name="color_selection_title">Шаг 2: Цвет фона</string>
+    <string name="color_selection_header">Выберите цвет фона открытки</string>
+    <string name="color_selected">Выбрано</string>
+
+    <!-- Image Selection Screen -->
+    <string name="image_selection_title">Шаг 3: Картинка</string>
+    <string name="image_selection_header">Выберите картинку для открытки</string>
+
+    <!-- Image Names -->
+    <string name="image_cake">Торт</string>
+    <string name="image_favorite">Сердце</string>
+    <string name="image_star">Звезда</string>
+    <string name="image_emoji">Смайлик</string>
+    <string name="image_gift">Подарок</string>
+    <string name="image_celebration">Праздник</string>
+    <string name="image_flower">Цветок</string>
+    <string name="image_sun">Солнце</string>
+    <string name="image_music">Музыка</string>
+    <string name="image_diamond">Бриллиант</string>
+
+    <!-- Result Screen -->
+    <string name="result_title">Ваша открытка готова!</string>
+    <string name="result_congratulations">Поздравляем! 🎉</string>
+    <string name="result_subtitle">Ваша открытка создана</string>
+    <string name="result_button_restart">Начать заново</string>
+    <string name="result_button_home">На главную</string>
+
+    <!-- Content Descriptions -->
+    <string name="cd_postcard">Открытка</string>
+    <string name="cd_back">Назад</string>
+    <string name="cd_home">Домой</string>
+    <string name="cd_restart">Начать заново</string>
+</resources>
